@@ -4,7 +4,6 @@ Welcome to the Crowdfunding ETL (Extract, Transform, Load) Project! This reposit
 ## Project Structure
 
 ```bash
-Copy code
 Crowdfunding_ETL/
 │
 ├── Resources/
