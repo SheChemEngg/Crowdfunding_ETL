@@ -51,6 +51,7 @@ The project utilizes Pandas to extract data from the provided Excel files: crowd
 
 3. Export it as contacts.csv.
 
+## SQL
 
 In PostgreSQL 12, using pgAdmin, a database named "crowdfunding_db" was established. Following that, four tables were generated, and data from corresponding CSV Database Setup and Table Creation:
 
